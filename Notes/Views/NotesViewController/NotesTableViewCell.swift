@@ -9,6 +9,8 @@ import UIKit
 
 class NotesTableViewCell: UITableViewCell {
     
+    // sadasdasdad
+    
     static let identifier = String(describing: NotesTableViewCell.self)
     
     var titleLabel: UILabel = {
